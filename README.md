@@ -102,7 +102,7 @@ Execute the shortcut. The hyperlink should appear in `iSH` and be clickable.
 
 ## Step 6: Configure the Receiver Shortcut
 
-Ensure you have a Shortcut named "Cheese" that processes the input from the hyperlink click.
+I used  a Shortcut named "Cheese" that both sends the original command and processes the input from the hyperlink click.
 
 
 This should be able to open and pass variables back to any iOS app that supports URI. 
